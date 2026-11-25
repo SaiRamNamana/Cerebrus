@@ -1,0 +1,10 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# IDE and OS files
+.vs/
+.idea/
+*.user
+*.suo
+.DS_Store
